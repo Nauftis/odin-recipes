@@ -1,0 +1,2 @@
+In this project you are going to build a basic recipe website. During this project you will practice all of the HTML knowledge you have acquired.
+You are going to make a main index page, including some links (and probably lists)
